@@ -6,7 +6,9 @@
             "self": {
                 "margin": [
                     "mr-3"
-                ]
+                ],
+                "width": "120px",
+                "height": "auto"
             }
         },
         "type": "ImageBlock"
